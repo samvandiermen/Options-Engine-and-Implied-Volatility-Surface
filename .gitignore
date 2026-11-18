@@ -30,6 +30,9 @@ figures/*
 !figures/surface.png
 !figures/sample_surface.html
 
+# Editor settings (local to this machine)
+.vscode/
+
 # OS
 .DS_Store
 Thumbs.db
