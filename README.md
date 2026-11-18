@@ -1,4 +1,4 @@
-# OptionsEngine and Implied Volatility Surface
+# Options Engine and Implied Volatility Surface
 
 [![tests](https://github.com/samvandiermen/OptionsEngine/actions/workflows/tests.yml/badge.svg)](https://github.com/samvandiermen/OptionsEngine/actions/workflows/tests.yml)
 
